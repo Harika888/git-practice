@@ -1,0 +1,31 @@
+                                      PYTHON 
+Python has become one of the most popular programming languages in recent years. It's been used in everything from machine learning to building websites and software testing. Developers and non-developers alike find it useful.
+
+Python, one of the most popular programming languages in the world, has created everything from Netflix’s recommendation algorithm to the software that controls self-driving cars. Python is a general-purpose language, used to create a range of applications, including data science, software and web development, automation, and improving the ease of everyday tasks.
+
+This versatility is one reason the Times of India reports Python has repeatedly won the TIOBE Programming Language of the Year award, most recently in 2021 [1]. Let’s take a closer look at what Python is, what it can do, and how you can start learning it.
+
+What is Python?
+Python is a computer programming language often used to build websites and software, automate tasks, and analyze data. Python is a general-purpose language, not specialized for any specific problems, and used to create various programmes. This versatility and its beginner-friendliness have made it one of the most used programming languages today. In 2020, more than one-third of Indian IT professionals said Python was their preferred programming language [2]. It continues to top lists of the most desired programming languages in the country.
+
+Did you know? The name Python comes from Monty Python. When Guido van Rossum was creating Python, he was also reading the scripts from BBC's Monty Python's Flying Circus. He thought the name Python was appropriately short and slightly mysterious.
+
+
+What is Python used for?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it’s relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances.
+
+"Writing programs is a very creative and rewarding activity," says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. "You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem."
+
+What can you do with Python? Some things include:
+
+Data analysis and machine learning
+
+Web development
+
+Automation or scripting
+
+Software testing and prototyping
+
+Everyday tasks
+
+Here’s a closer look at some common ways Python is used.
