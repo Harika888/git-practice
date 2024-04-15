@@ -1,0 +1,1 @@
+ HTML stands for Hyper Text Markup Language . It is the standard language used to create and design webpages on the internet. It was introduced by Tim Berners -Lee in 1991 at CERN as a simple markup language. Developers use HTML code to design how a browser displays web page elements, such as text, hyperlinks, and media files. 
